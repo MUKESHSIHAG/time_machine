@@ -2,7 +2,7 @@
 
 >**This terminal made only for linux(ubuntu)**
 
-[pro.py]() file contains all code of virtual terminal.</br>
+[pro.py] file contains all code of virtual terminal.</br>
 Fork this repo and, to see terminal in action, open your terminal and go to correct folder 
 >**type: python pro.py**  
 
@@ -10,7 +10,7 @@ Fork this repo and, to see terminal in action, open your terminal and go to corr
 **PVERSE** will open with new theme (means some color of your terminal will change)  
 Now you can type any command and see the output without being fear:fearful: of crashing of your system.  
 One can type any command, it will not harm the system (because its virtual :v:).  
-To exit from pverse type **'ctrl+c'** and **'exit'** 
+To exit from pverse press **'ctrl+c'** or type **'exit'** 
 Now, it will ask you 
 >**Do you want to keep these changes[y/n]**
 
