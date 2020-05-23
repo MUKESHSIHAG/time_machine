@@ -3,8 +3,9 @@
 >**This terminal made only for linux(ubuntu)**
 
 [pro.py] file contains all code of virtual terminal.</br>
-Fork this repo and, to see terminal in action, open your terminal and go to correct folder 
->**type: python pro.py**  
+Fork this repo and, to see terminal in action, open your terminal and go to correct folder </br>
+Currently this supports only python3 make sure python3 is installed
+>**type: python3 pro.py**  
 
 
 **PVERSE** will open with new theme (means some color of your terminal will change)  
